@@ -1,4 +1,4 @@
-FROM    fedora:28
+FROM    fedora:rawhide
 MAINTAINER joramk@gmail.com
 ENV     container docker
 
